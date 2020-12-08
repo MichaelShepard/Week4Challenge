@@ -30,8 +30,6 @@ namespace _07_Inheritance
         public bool Kids { get; set; }
         public bool InLaw { get; set; }
 
-        public
-
     }
 
     class Bathrooms : House
